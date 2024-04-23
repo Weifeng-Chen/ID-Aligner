@@ -42,8 +42,8 @@ We provide a standalone [example code](quicktour.py) to help you quickly use res
 
 
 
-## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=Weifeng-Chen/ID-Aligner&type=Date)](https://star-history.com/#Weifeng-Chen/ID-Aligner&Date)
+<!-- ## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=Weifeng-Chen/ID-Aligner&type=Date)](https://star-history.com/#Weifeng-Chen/ID-Aligner&Date) -->
 
 ## Citation
 If you find ID-Aligner useful for your research and applications, please cite us using this BibTeX:
