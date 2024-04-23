@@ -10,7 +10,7 @@ ByteDance, Sun Yat-Sen University
 
 
 <a href='https://idaligner.github.io/'><img src='https://img.shields.io/badge/Project-Page-blue'></a> 
-<a href='https://arxiv.org/abs/2403.02084'><img src='https://img.shields.io/badge/ Paper-Arxiv-red'></a> 
+<a href='https://arxiv.org/'><img src='https://img.shields.io/badge/ Paper-Arxiv-red'></a> 
 ![GitHub Org's stars](https://img.shields.io/github/stars/Weifeng-Chen/ID-Aligner)
 <!-- [![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Space-green)](https://huggingface.co/spaces/jiaxiangc/res-adapter) -->
 <!-- [![ComfyUI](https://img.shields.io/badge/ComfyUI-ResAdapter-blue)](https://github.com/jiaxiangc/ComfyUI-ResAdapter) -->
@@ -22,9 +22,10 @@ Comparison examples between resadapter and [dreamlike-diffusion-1.0](https://civ
 
 </div>
 
+<!-- <img src="assets/mm2024_id_aligner_pipeline_00-1.png" /> -->
+
 <img src="assets/vis_sdxl.jpg" />
 
-<!-- <img src="assets/mm2024_id_aligner_pipeline_00-1.png" /> -->
 
 ## Release
 
