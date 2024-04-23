@@ -28,7 +28,7 @@ Comparison examples between resadapter and [dreamlike-diffusion-1.0](https://civ
 
 ## Release
 
-- `[2024/04/24]` 🔥 We release the [arxiv paper](https://arxiv.org/abs/2403.02084).
+- `[2024/04/24]` 🔥 We release the [arxiv paper](https://arxiv.org/).
 
 
 <!-- ## Quicktour
